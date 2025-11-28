@@ -12,7 +12,7 @@ Motivating my students to grow into their best versions.
 Assistant Professor of English who treats learning as the highest form of self-creation.  
 A chess player who brings the game's logic and clarity into the communication classroom, guiding students to think boldly and express themselves with confidence and purpose.
 
-I am passionate about gamifying the learning journey so students fall in love with learning through curiosity.  
+I am passionate about gamifying learning so students fall in love with learning through curiosity.  
 Everything I do is aimed at instilling in them the desire to become the best version of who they can be.
 
 ---

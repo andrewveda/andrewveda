@@ -3,7 +3,9 @@
 
 [andrewveda.github.io](https://andrewveda.github.io)
 
-♟️ Chess Nerd • Pedagogy Hacker 😍 • Builder of curious, confident thinkers ✨ 
+Chess Nerd ♟️ Pedagogy Hacker 😍 
+
+Builder of curious, confident thinkers ✨ 
 Motivating my students to grow into their best versions.
 
 > My personal motto: *“Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.”*

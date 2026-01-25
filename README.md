@@ -1,9 +1,10 @@
 # **Andrew Veda**
+
+Chess Nerd ♟️ Pedagogy Hacker 😍 
+
 ![andrewveda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewveda&theme=vue-dark&hide_border=true)
 ---
 [andrewveda.github.io](https://andrewveda.github.io)
-
-Chess Nerd ♟️ Pedagogy Hacker 😍 
 
 Builder of curious, confident thinkers ✨ 
 Motivating my students to grow into their best versions.

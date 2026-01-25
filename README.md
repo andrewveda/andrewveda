@@ -20,6 +20,9 @@ I am passionate about gamifying learning so students fall in love with learning 
 Everything I do is aimed at instilling in them the desire to become the best version of who they can be.
 
 ---
+![andrewveda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewveda&theme=vue-dark&hide_border=true)
+
+---
 
 ## ♟️ **My Chess.com Profile**
 https://www.chess.com/member/andrewveda

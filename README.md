@@ -29,6 +29,6 @@ https://www.chess.com/member/andrewveda
 
 ## 🎮 **Featured Project**
 ### **SRM-VEC English PWA**
-A progressive web app that helps ESL students master practical English through fun, daily micro-achievements. 👉 **Try it here:** https://andrewveda.github.io/SRM-VEC-English-PWA/
+A progressive web app that helps ESL students master practical English through fun, daily micro-achievements. 👉 **Check it out:** https://andrewveda.github.io/SRM-VEC-English-PWA/
 
 ---

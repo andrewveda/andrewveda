@@ -1,6 +1,6 @@
 # **Andrew Veda**
-### *Assistant Professor of English at SRM Valliammai Engineering College*
-
+![andrewveda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewveda&theme=vue-dark&hide_border=true)
+---
 [andrewveda.github.io](https://andrewveda.github.io)
 
 Chess Nerd ♟️ Pedagogy Hacker 😍 
@@ -18,9 +18,6 @@ A chess player who brings the game's logic and clarity into the communication cl
 
 I am passionate about gamifying learning so students fall in love with learning through curiosity.  
 Everything I do is aimed at instilling in them the desire to become the best version of who they can be.
-
----
-![andrewveda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewveda&theme=vue-dark&hide_border=true)
 
 ---
 

@@ -15,6 +15,9 @@
 
 Builder of curious, confident thinkers ✨ 
 Motivating my students to grow into their best versions.
+<p align="center">
+  <img src="https://chess-stats-badge.vercel.app/api?username=andrewveda&theme=dark&stats=rapid,blitz,bullet" />
+</p>
 
 > My personal motto: *“Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.”*
 

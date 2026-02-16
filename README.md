@@ -34,11 +34,6 @@ Everything I do is aimed at instilling in them the desire to become the best ver
 
 ---
 
-## ♟️ **My Chess.com Profile**
-https://www.chess.com/member/andrewveda
-
----
-
 ## 🎮 **Featured Project**
 ### **SRM-VEC English PWA**
 A progressive web app that helps ESL students master practical English through fun, daily micro-achievements. 👉 **Check it out:** https://andrewveda.github.io/SRM-VEC-English-PWA/

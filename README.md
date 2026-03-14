@@ -1,4 +1,3 @@
-# **Andrew Veda**
 <h3 align="center">
   Chess Nerd ♟️ Pedagogy Hacker 😍
 </h3>

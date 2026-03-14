@@ -2,7 +2,11 @@
 <h3 align="center">
   Chess Nerd ♟️ Pedagogy Hacker 😍
 </h3>
-
+<p align="center">
+  <a href="https://www.chess.com/member/andrewveda">
+    <img src="https://img.shields.io/badge/Chess.com-andrewveda-2C8D4E?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewveda&theme=vue-dark&hide_border=true" />
 </p>
@@ -15,11 +19,7 @@
 
 Builder of curious, confident thinkers ✨ 
 Motivating my students to grow into their best versions.
-<p align="center">
-  <a href="https://www.chess.com/member/andrewveda">
-    <img src="https://img.shields.io/badge/Chess.com-andrewveda-2C8D4E?style=for-the-badge&logo=chessdotcom&logoColor=white" />
-  </a>
-</p>
+
 
 > My personal motto: *“Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.”*
 

@@ -9,12 +9,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewveda&theme=vue-dark&hide_border=true" />
 </p>
-
-<hr />
-
 <p align="center">
   <a href="https://andrewveda.github.io">andrewveda.github.io</a>
 </p>
+<hr />
+
+
 
 Builder of curious, confident thinkers ✨ 
 Motivating my students to grow into their best versions.

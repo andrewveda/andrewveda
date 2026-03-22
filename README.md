@@ -1,5 +1,4 @@
 <h3 align="center">
-  Chess Nerd ♟️ Pedagogy Hacker 😍
 </h3>
 <p align="center">
   <a href="https://www.chess.com/member/andrewveda">

@@ -1,5 +1,3 @@
-<h3 align="center">
-</h3>
 <p align="center">
   <a href="https://www.chess.com/member/andrewveda">
     <img src="https://img.shields.io/badge/Chess.com-andrewveda-2C8D4E?style=for-the-badge&logo=chessdotcom&logoColor=white" />

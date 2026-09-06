@@ -4,9 +4,6 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewveda&theme=vue-dark&hide_border=true" />
-</p>
-<p align="center">
   <a href="https://andrewveda.github.io">andrewveda.github.io</a>
 </p>
 <hr />

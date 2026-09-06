@@ -5,18 +5,9 @@
 </p>  <p align="center">  
   Everything I do is aimed at inspiring my students to become the best version of themselves.  
 </p>  Favourite Quotes
-
-> 1. "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." - Samuel Beckett 
-
-
-> 2. "Try not. Do or do not. There is no try." - Yoda
-
-
-
-> 3. "The opposite of a good idea is another good idea." - Neils Bohr via Rory Sutherland
-
-
-
+1. "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." - Samuel Beckett 
+2. "Try not. Do or do not. There is no try." - Yoda
+3. "The opposite of a good idea is another good idea." - Neils Bohr via Rory Sutherland
 <p align="center">  
   <a href="https://andrewveda.com">andrewveda.com</a>  
 </p> 

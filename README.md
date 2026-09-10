@@ -7,6 +7,3 @@
 1. "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." - Samuel Beckett <br> 
 2. "Try not. Do or do not. There is no try." - Yoda<br>
 3. "The opposite of a good idea is another good idea." - Neils Bohr via Rory Sutherland
-<p align="center">  
-  <a href="https://andrewveda.com">andrewveda.com</a>  
-</p> 
